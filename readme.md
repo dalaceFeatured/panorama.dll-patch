@@ -1,4 +1,4 @@
-### Panorama-Patch
+ ### Panorama-Patch
 
 > [!CAUTION]
 > This project is incomplete and not ready for general use.
@@ -21,4 +21,10 @@ A patched version of `panorama.dll` that allows loading custom Panorama UI code.
 
 ### Warning!
 I took this panorama.dll from the developer no_spam
+
+
+### What is it used for?
+* ** bypass validation**: Allows running any modified interface configurations.
+* **UI Experiments**: Essential for testing old design concepts and HUD custom layouts.
+* **Offline Modding**: Perfect for creating custom main menus or restoring retro UI elements.
 

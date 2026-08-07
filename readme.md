@@ -1,4 +1,4 @@
-panorama.dll patch
+### Panorama-Patch
 
 > [!CAUTION]
 > This project is incomplete and not ready for general use.
@@ -19,5 +19,6 @@ A patched version of `panorama.dll` that allows loading custom Panorama UI code.
 * Theoretically, this patch allows you to replace files and revert to the old **2019 Panorama UI**.
 * **Known Issue**: If you try to use the 2019 `code.pbin` directly, the game **will not load** due to structural differences and critical compatibility bugs in the engine.
 
-
+### Warning!
+I took this panorama.dll from the developer no_spam
 
